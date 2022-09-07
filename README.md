@@ -14,7 +14,6 @@ Loop over the entire string and reverse it.
 
 ### Step 4:
 Use if condition to check whether the string and the reversed string is equal or not.
-
 ### Step 5:
 print palindrome if it's equal else print not a palindrome.
 
